@@ -1,9 +1,9 @@
-# CAMBAM Workshop: Exploring Single Neuron Excitability with Mathematical and Computational Models
 
-## Jupyter Notebooks for 2023 CAMBAM Workshop
-##### Nils Koch and Niklas Brake
+![CAMBAM_Workshop_Neuron_Excitability](https://github.com/nkoch1/CAMBAM_Workshop_Neuron_Excitability/assets/29179760/91cbf1dd-7f30-41c1-bc7b-81eb87c9563e)
 
-Jupyter noteboo test [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nkoch1/CAMBAM_Workshop_Neuron_Excitability.git/HEAD?labpath=Jupyter_notebook_test.ipynb)
+## Jupyter Notebooks for the 2023 CAMBAM Workshop
+
+Jupyter notebook test [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nkoch1/CAMBAM_Workshop_Neuron_Excitability.git/HEAD?labpath=Jupyter_notebook_test.ipynb)
 
 Computer Lab 1 - Data and Electrophysiological Features [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nkoch1/CAMBAM_Workshop_Neuron_Excitability.git/HEAD?labpath=Computer_lab_1_Data_and_Features.ipynb)
 
